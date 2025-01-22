@@ -18,9 +18,11 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 1. Preparation
    
-| 1 | 2 | 3 |
-| :---: | :---: | :---: |
-| 1 | 2 | 3 |
+| ![](img/QuickStart08.gif) | ![](img/QuickStart09.gif) |
+| :---: | :---: |
+| a、Insert the voice recognition sensor into Port 1 or Port 2 of the blue terminal.<br/> Insert the motor into Port 1 or Port 2 of the green terminal.   | b、Assemble the fan blades and attach them to the motor.   |
+| ![](img/QuickStart10.gif) | |
+| c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/reverse” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
 
 
 2. Assembly Steps  
