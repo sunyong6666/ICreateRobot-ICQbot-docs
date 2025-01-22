@@ -8,6 +8,12 @@
 
 ## Parts List
 
+| ![](img/Introduction02.png) | ![](img/Introduction03.png) | ![](img/Introduction04.png) |
+| :---: | :---: | :---: |
+| <font style="color:#000000;">ICQbot </font><font style="color:rgb(0,0,0);">Xiao Q Robot</font> | <font style="color:#000000;">Distance Sensor  </font> | <font style="color:#000000;">Tilt Sensor  </font> |
+| ![](img/Introduction05.png) | ![](img/Introduction06.png) | ![](img/Introduction07.png) |
+| <font style="color:#000000;">Voice Recognition Sensor </font> | <font style="color:#000000;">Motor  </font> | <font style="color:#000000;">Programming Cards  </font> |
+
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
     <td style="width: 33.33%; text-align: center; vertical-align: middle;">
