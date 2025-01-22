@@ -20,9 +20,9 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
    
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="width: 33.33%;"><img src="img/QuickStart02.png" alt="ICQbot Xiao Q Robot × 1"></td>
-    <td style="width: 33.33%;"><img src="img/QuickStart03.png" alt="Voice Recognition Sensor x 1"></td>
-    <td style="width: 33.33%;"><img src="img/QuickStart04.png" alt="Motor x 1"></td>
+    <td style="width: 33.33%;"><img src="../../_images/QuickStart02.png" ></td>
+    <td style="width: 33.33%;"><img src="../../_images/QuickStart03.png" ></td>
+    <td style="width: 33.33%;"><img src="../../_images/QuickStart04.png" ></td>
   </tr>
   <tr>
     <td>ICQbot Xiao Q Robot × 1</td>
@@ -30,9 +30,9 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
     <td>Motor x 1</td>
   </tr>
   <tr>
-    <td><img src="img/QuickStart05.png" alt="2×6 Thin Plates  × 4"></td>
-    <td><img src="img/QuickStart06.png" alt="40-Tooth Gear  × 1"></td>
-    <td><img src="img/QuickStart07.png" alt="No. 3 Axle  x 1"></td>
+    <td><img src="../../_images/QuickStart05.png" ></td>
+    <td><img src="../../_images/QuickStart06.png" ></td>
+    <td><img src="../../_images/QuickStart07.png" ></td>
   </tr>
   <tr>
     <td>2×6 Thin Plates  × 4</td>
