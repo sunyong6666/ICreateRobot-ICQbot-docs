@@ -1,4 +1,4 @@
-# **QuickStart**
+# Quick Start
 
 If you are using this product for the first time, please read this chapter carefully to quickly learn how to use ICQbot to make some simple cases. If you have already used this product, you can quickly browse this section or skip to subsequent sections for more detailed help.
 
@@ -8,13 +8,13 @@ Here are two curated cases to help you quickly get started with ICQbot and exper
 In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, and motor to create a fan controlled by voice commands. Through this project, you will gain a deeper understanding of how voice commands interact with hardware modules.  
 
 
-**Case Overview  **
+**Case Overview**
 
 ![](img/QuickStart01.gif)
 
 
 
-**Steps  **
+**Steps**
 
 1. Preparation  
 
@@ -28,7 +28,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 2. Assembly Steps  
 
 | ![](img/QuickStart08.gif) | ![](img/QuickStart09.gif) |
-| --- | --- |
+| :---: | :---: |
 | a、Insert the voice recognition sensor into Port 1 or Port 2 of the blue terminal. Insert the motor into Port 1 or Port 2 of the green terminal.   | b、Assemble the fan blades and attach them to the motor.   |
 | ![](img/QuickStart10.gif) | |
 | c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/reverse” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
@@ -41,11 +41,11 @@ In this section, we will guide you through creating a voice-controlled stage cha
 
 
 
-**Case Overview  **
+**Case Overview**
 
 ![](img/QuickStart11.gif)
 
-**Steps  **
+**Steps**
 
 1. Preparation  
 
@@ -64,7 +64,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 3. Programming Steps  
 
 | ![](img/QuickStart16.gif) | ![](img/QuickStart17.gif) |
-| --- | --- |
+| :---: | :---: |
 | 1、Choose a background image.   | 2、Select a Pac-Man character and three beans, then resize them to appropriate sizes (Note: Select the target character before resizing).   |
 | ![](img/QuickStart18.gif)                                    | ![](img/QuickStart19.gif) |
 | 3、Program Pac-Man to move using voice commands. When Pac-Man eats a bean, it grows larger.   | 4、Program the beans to disappear when Pac-Man eats them.   |
