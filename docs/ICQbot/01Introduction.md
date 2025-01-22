@@ -7,15 +7,33 @@
 <font style="color:rgb(0,0,0);">The ICQbot series is specifically designed for children aged 5-8. The power components include a main controller: Xiao Q Robot, 2 motors, 2 distance sensors, 1 tilt sensor, and 1 voice recognition sensor. The software supports ICQbot programming/offline voice programming, enabling multiple control modes such as direct button control, sensor logic control, screen-free voice coding, and software-hardware interactive programming. Combined with building blocks, the ICQbot offers diverse play options, enabling bidirectional interaction between hardware and software. It enhances children's hands-on skills and fosters programming thinking.  </font>
 
 ## Parts List
-| ![](img/Introduction02.png) | ![](img/Introduction03.png) | ![](img/Introduction04.png) |
-| :---: | :---: | :---: |
-| <font style="color:#000000;">ICQbot </font><font style="color:rgb(0,0,0);">Xiao Q Robot</font> | <font style="color:#000000;">Distance Sensor  </font> | <font style="color:#000000;">Tilt Sensor  </font> |
-| ![](img/Introduction05.png) | ![](img/Introduction06.png) | ![](img/Introduction07.png) |
-| <font style="color:#000000;">Voice Recognition Sensor </font> | <font style="color:#000000;">Motor  </font> | <font style="color:#000000;">Programming Cards  </font> |
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td style="width: 30%;"><img src="../../_images/Introduction02.png" ></td>
+    <td style="width: 40%;"><img src="../../_images/Introduction03.png" ></td>
+    <td style="width: 40%;"><img src="../../_images/Introduction04.png" ></td>
+  </tr>
+  <tr>
+    <td style="color: #000000;">ICQbot <span style="color: rgb(0,0,0);">Xiao Q Robot</span></td>
+    <td style="color: #000000;">Distance Sensor</td>
+    <td style="color: #000000;">Tilt Sensor</td>
+  </tr>
+  <tr>
+    <td style="width: 40%;"><img src="../../_images/Introduction05.png" alt="Voice Recognition Sensor"></td>
+    <td style="width: 40%;"><img src="../../_images/Introduction06.png" alt="Motor"></td>
+    <td style="width: 40%;"><img src="../../_images/Introduction07.png" alt="Programming Cards"></td>
+  </tr>
+  <tr>
+    <td style="color: #000000;">Voice Recognition Sensor</td>
+    <td style="color: #000000;">Motor</td>
+    <td style="color: #000000;">Programming Cards</td>
+  </tr>
+</table>
 
 
 ## ICQbot Series of Set
-| **Item** | ****<font style="color:rgb(0, 0, 0);">ICQbot Interactive Coding Robot Set (Electronics)</font> |
+| **Item** | **ICQbot Interactive Coding Robot Set (Electronics)** |
 | :---: | :---: |
 | <font style="color:#000000;">ICQbot </font><font style="color:rgb(0,0,0);">Xiao Q Robot</font> | 1 |
 | <font style="color:#000000;">Distance Sensor </font> | 2 |
