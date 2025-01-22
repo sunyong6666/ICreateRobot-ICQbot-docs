@@ -1,5 +1,7 @@
 table {
     width: 100%;
+    border-collapse: collapse; /* 确保表格边框合并 */
+    text-align: center; /* 设置表格内容居中 */
 }
 th, td {
     text-align: center;
