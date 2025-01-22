@@ -18,11 +18,29 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 1. Preparation
    
-| ![](img/QuickStart02.png) | ![](img/QuickStart03.png) | ![](img/QuickStart04.png) |
-| :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor x 1 | Motor x 1 |
-| ![](img/QuickStart05.png) | ![](img/QuickStart06.png) | ![](img/QuickStart07.png) |
-|  2×6 Thin Plates  × 4 |  40-Tooth Gear  × 1 |  No. 3 Axle  x 1 |
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width: 33.33%;"><img src="img/QuickStart02.png" alt="ICQbot Xiao Q Robot × 1"></td>
+    <td style="width: 33.33%;"><img src="img/QuickStart03.png" alt="Voice Recognition Sensor x 1"></td>
+    <td style="width: 33.33%;"><img src="img/QuickStart04.png" alt="Motor x 1"></td>
+  </tr>
+  <tr>
+    <td>ICQbot Xiao Q Robot × 1</td>
+    <td>Voice Recognition Sensor x 1</td>
+    <td>Motor x 1</td>
+  </tr>
+  <tr>
+    <td><img src="img/QuickStart05.png" alt="2×6 Thin Plates  × 4"></td>
+    <td><img src="img/QuickStart06.png" alt="40-Tooth Gear  × 1"></td>
+    <td><img src="img/QuickStart07.png" alt="No. 3 Axle  x 1"></td>
+  </tr>
+  <tr>
+    <td>2×6 Thin Plates  × 4</td>
+    <td>40-Tooth Gear  × 1</td>
+    <td>No. 3 Axle  x 1</td>
+  </tr>
+</table>
+
 
 
 
