@@ -18,11 +18,11 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 1. Preparation
    
-
-
-| ![](img/QuickStart05.png) | ![](img/QuickStart06.png) | ![](img/QuickStart07.png) |
+| ![](img/QuickStart02.png) | ![](img/QuickStart03.png) | ![](img/QuickStart04.png) |
 | :---: | :---: | :---: |
-|  2×6 Thin Plates  x 4 |  40-Tooth Gear  x 1 |  No. 3 Axle  x 1 |
+| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor × 1 | Motor × 1 |
+| ![](img/QuickStart05.png) | ![](img/QuickStart06.png) | ![](img/QuickStart07.png) |
+|  2×6 Thin Plates  × 4 |  40-Tooth Gear  × 1 |  No. 3 Axle  × 1 |
 
 
 2. Assembly Steps  
