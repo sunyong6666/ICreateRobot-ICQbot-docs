@@ -18,7 +18,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 1. Preparation
    
-|  | ) | ![](img/QuickStart04.png) |
+|  |  |  |
 | :---: | :---: | :---: |
 | ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor x 1 | Motor x 1 |
 | ![](img/QuickStart05.png) | ![](img/QuickStart06.png) | ![](img/QuickStart07.png) |
