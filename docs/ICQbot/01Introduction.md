@@ -6,7 +6,7 @@
 
 <font style="color:rgb(0,0,0);">The ICQbot series is specifically designed for children aged 5-8. The power components include a main controller: Xiao Q Robot, 2 motors, 2 distance sensors, 1 tilt sensor, and 1 voice recognition sensor. The software supports ICQbot programming/offline voice programming, enabling multiple control modes such as direct button control, sensor logic control, screen-free voice coding, and software-hardware interactive programming. Combined with building blocks, the ICQbot offers diverse play options, enabling bidirectional interaction between hardware and software. It enhances children's hands-on skills and fosters programming thinking.  </font>
 
-## <font style="color:rgb(0,0,0);">Parts List  </font>
+## Parts List
 | ![](img/Introduction02.png) | ![](img/Introduction03.png) | ![](img/Introduction04.png) |
 | :---: | :---: | :---: |
 | <font style="color:#000000;">ICQbot </font><font style="color:rgb(0,0,0);">Xiao Q Robot</font> | <font style="color:#000000;">Distance Sensor  </font> | <font style="color:#000000;">Tilt Sensor  </font> |
