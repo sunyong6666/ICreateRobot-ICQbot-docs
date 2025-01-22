@@ -10,9 +10,9 @@
 
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction02.png" ></td>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction03.png" ></td>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction04.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction02.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction03.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction04.png" ></td>
   </tr>
   <tr>
     <td style="color: #000000;">ICQbot <span style="color: rgb(0,0,0);">Xiao Q Robot</span></td>
@@ -20,9 +20,9 @@
     <td style="color: #000000;">Tilt Sensor</td>
   </tr>
   <tr>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction05.png" ></td>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction06.png" ></td>
-    <td style="width: 33.33%;"><img src="../../_images/Introduction07.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction05.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction06.png" ></td>
+    <td style="width: 33.33%;"><img src="img/Introduction07.png" ></td>
   </tr>
   <tr>
     <td style="color: #000000;">Voice Recognition Sensor</td>
