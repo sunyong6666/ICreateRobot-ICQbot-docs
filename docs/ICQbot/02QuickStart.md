@@ -40,7 +40,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 **Install the Software**
 
-For Android Phone and tablet：** Click the following link to download the installation package: 👉 [[Software Installation]](https://www.yuque.com/crystal-vzc6k/cfl3ix/xk5zklboqd93ngc7?singleDoc#%20《软件安装》)
+For Android Phone and tablet：** Click the following link to download the installation package: 👉 [[Software Installation]](https://drive.google.com/file/d/1tis60r2DEChY0mD25CEU1n2o-GDv5_sX/view?usp=drive_link)
 
 For iPhone and iPad：Please search "ICQbot" in AppStore to install.
 
