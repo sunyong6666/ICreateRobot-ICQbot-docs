@@ -35,10 +35,27 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 
 
-## Software Programming Control  
-In this section, we will guide you through creating a voice-controlled stage character. This project will help you understand how to use voice commands to manipulate stage characters effectively.  
+## Software Programming
 
 
+**Install the Software**
+
+For Android Phone and tablet：** Click the following link to download the installation package: 👉 [Software Installation]
+
+For iPhone and iPad：Please search "ICQbot" in AppStore to install.
+
+
+**Steps for Programming**
+
+Step 1: Connect Bluetooth
+
+Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the ICQBot is powered on.
+
+Open the ICQBot programming software, follow the video to connect. 👉 [Video Tutorial]
+
+Step 2: Program for your models
+
+Please see the [Video Demos] for each models, and have fun!
 
 
 
