@@ -40,7 +40,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 **Install the Software**
 
-For Android Phone and tablet：** Click the following link to download the installation package: 👉 [Software Installation]
+For Android Phone and tablet：** Click the following link to download the installation package: 👉 [[Software Installation]](https://www.yuque.com/crystal-vzc6k/cfl3ix/xk5zklboqd93ngc7?singleDoc#%20《软件安装》)
 
 For iPhone and iPad：Please search "ICQbot" in AppStore to install.
 
@@ -51,11 +51,11 @@ Step 1: Connect Bluetooth
 
 Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the ICQBot is powered on.
 
-Open the ICQBot programming software, follow the video to connect. 👉 [Video Tutorial]
+Open the ICQBot programming software, follow the video to connect. 👉 [[Video Tutorial]](https://youtu.be/Fu3GVC1s6qc)
 
 Step 2: Program for your models
 
-Please see the [Video Demos] for each models, and have fun!
+Please see the [Video Demos](https://youtube.com/playlist?list=PLscVLoYXLLuQmp8RMY7gpCIc-nSugiRy-&si=LMMQqhUOQnJaaepq) for each models, and have fun!
 
 
 
