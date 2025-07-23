@@ -1,8 +1,7 @@
 # Quick Start
 
-If you are using this product for the first time, please read this chapter carefully to quickly learn how to use ICQbot to make some simple cases. If you have already used this product, you can quickly browse this section or skip to subsequent sections for more detailed help.
+If you are using this product for the first time, please read this chapter carefully to quickly learn how to use ICQbot to make some simple cases. 
 
-Here are two curated cases to help you quickly get started with ICQbot and experience its unique charm!  
 
 ## Voice Programming Control  
 In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, and motor to create a fan controlled by voice commands. Through this project, you will gain a deeper understanding of how voice commands interact with hardware modules.  
@@ -29,9 +28,9 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 | ![](img/QuickStart08.gif) | ![](img/QuickStart09.gif) |
 | :--- | :--- |
-| a、Insert the voice recognition sensor into Port 1 or Port 2 of the blue terminal.<br/> Insert the motor into Port 1 or Port 2 of the green terminal.   | b、Assemble the fan blades and attach them to the motor.   |
+| a、Plug the voice recognition sensor into blue port 1.<br/> Plug the motor into green port 1.   | b、Assemble the fan blades and attach them to the motor.   |
 | ![](img/QuickStart10.gif) | |
-| c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/reverse” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
+| c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/backward” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
 
 
 
@@ -58,7 +57,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 
 ![](img/QuickStart15.gif)  
 
-Connect the voice recognition sensor to Port 1 or Port 2 of the ICQbot Xiao Q Robot. 
+Connect the voice recognition sensor to blue port 1 of the ICQbot Xiao Q Robot. 
 
 
 3. Programming Steps  
