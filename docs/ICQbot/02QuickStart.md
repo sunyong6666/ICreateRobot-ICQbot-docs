@@ -32,30 +32,56 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 | ![](img/QuickStart10.gif) | |
 | c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/backward” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
 
+## Software Programming Control  
+In this section, we will guide you through creating a voice-controlled stage character. This project will help you understand how to use voice commands to manipulate stage characters effectively.  
+
+**Case Overview  **
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart11.gif)
+
+**Steps  **
+
+1. Preparation  
+
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart12.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart13.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart14.png) |
+| :---: | :---: | :---: |
+| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor x 1 |  ICQbot Software  × 1 |
 
 
+2. Assembly Steps  
 
-## Software Programming
-
-
-**Install the Software**
-
-For Android Phone and tablet：** Click the following link to download the installation package: 👉 [[Software Installation]](https://drive.google.com/file/d/1tis60r2DEChY0mD25CEU1n2o-GDv5_sX/view?usp=drive_link)
-
-For iPhone and iPad：Please search "ICQbot" in AppStore to install.
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart15.gif)<br/>  |
+| --- |
+| Connect the voice recognition sensor to Port 1 or Port 2 of the ICQbot Xiao Q Robot. |
 
 
-**Steps for Programming**
+3. Programming Steps  
 
-Step 1: Connect Bluetooth
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart16gif)<br/> | <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart17.gif)<br/> |
+| --- | --- |
+| 1、Choose a background image.   | 2、Select a Pac-Man character and three beans, then resize them to appropriate sizes (Note: Select the target character before resizing).   |
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart18.gif)<br/> | <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart19.gif)<br/> |
+| 3、Program Pac-Man to move using voice commands. When Pac-Man eats a bean, it grows larger.   | 4、Program the beans to disappear when Pac-Man eats them.   |
 
-Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the ICQBot is powered on.
 
-Open the ICQBot programming software, follow the video to connect. 👉 [[Video Tutorial]](https://youtu.be/Fu3GVC1s6qc)
+4. Connect via Bluetooth and click “[Learn More](https://www.yuque.com/crystal-vzc6k/cfl3ix/lzppy94ty3eofheo?singleDoc#%20《使用指南》).”
 
-Step 2: Program for your models
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart20.gif)
 
-Please see the [Video Demos](https://youtube.com/playlist?list=PLscVLoYXLLuQmp8RMY7gpCIc-nSugiRy-&si=LMMQqhUOQnJaaepq) for each models, and have fun!
+5.  Start Using  
++ Click the green flag above the stage to run the program.
++ Wake up Xiao Q Robot by saying "Hello, Xiao Q."
++ Use the commands “Move up,” “Move down,” “Move left,” and “Move right” to control Pac-Man's movements.
 
 
 
