@@ -19,12 +19,12 @@
 
 Steps:  
 
-| ![](img/ICQbotXiaoQRobot05.gif) | ![](img/ICQbotXiaoQRobot06.gif) |
+| ![](img/ICQbotXiaoQRobot05.GIF) | ![](img/ICQbotXiaoQRobot06.gif) |
 | --- | --- |
 | <font style="color:rgb(0, 0, 0);">①</font><font style="color:rgb(31, 31, 31);">Toggle the switch on the </font>**ICLink 2.0**<font style="color:rgb(31, 31, 31);"> to the </font>**SWD/Forward**<font style="color:rgb(31, 31, 31);"> position.  </font> | <font style="color:rgb(0, 0, 0);">②</font>Use cables to connect the Xiao Q Robot, ICLink 2.0, and PC.   |
-| ![](img/ICQbotXiaoQRobot07.gif) | ![](img/ICQbotXiaoQRobot08.gif) |
+| ![](img/ICQbotXiaoQRobot07.GIF) | ![](img/ICQbotXiaoQRobot08.GIF) |
 | <font style="color:rgb(0, 0, 0);">③</font>Ensure the Xiao Q Robot’s status light is on.   | <font style="color:rgb(0, 0, 0);">④</font>Open the firmware upgrade platform, select “ICQbot,” and the desired firmware.   |
-| ![](img/ICQbotXiaoQRobot09.gif) | ![](img/ICQbotXiaoQRobot10.gif) |
+| ![](img/ICQbotXiaoQRobot09.GIF) | ![](img/ICQbotXiaoQRobot10.GIF) |
 | <font style="color:rgb(0, 0, 0);">⑤</font>Click “Connect Device,” select the appropriate COM port, and establish a connection.  ① | <font style="color:rgb(0, 0, 0);">⑥</font>Click “Upgrade” to start the process.   |
 | ![](img/ICQbotXiaoQRobot11.gif) | ![](img/ICQbotXiaoQRobot12.gif) |
 | <font style="color:rgb(0, 0, 0);">⑦When the ICLink 2.0 blue LED stops blinking, the upgrade is complete.  </font> | <font style="color:rgb(0, 0, 0);">⑧Test the upgraded Xiao Q Robot by reconnecting to the tablet via Bluetooth.  </font> |
