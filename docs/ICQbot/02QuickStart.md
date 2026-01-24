@@ -63,7 +63,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 3. Programming Steps  
 
 | <!-- 这是一张图片，ocr 内容为： -->
-![](img/QuickStart16gif)<br/> | <!-- 这是一张图片，ocr 内容为： -->
+![](img/QuickStart16.gif)<br/> | <!-- 这是一张图片，ocr 内容为： -->
 ![](img/QuickStart17.gif)<br/> |
 | --- | --- |
 | 1、Choose a background image.   | 2、Select a Pac-Man character and three beans, then resize them to appropriate sizes (Note: Select the target character before resizing).   |
