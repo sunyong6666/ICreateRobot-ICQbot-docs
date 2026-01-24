@@ -12,7 +12,7 @@
     2. Firmware Upgrade Platform：[https://update.icrobot.cn/](https://update.icrobot.cn/)
 2.  Hardware  
 
-| ![](img/ICQbotXiaoQRobot01.png) | ![](img/ICQbotXiaoQRobot01.png) | ![](img/ICQbotXiaoQRobot03.png) | ![](img/ICQbotXiaoQRobot04.png) |
+| ![](img/ICQbotXiaoQRobot01.png) | ![](img/ICQbotXiaoQRobot02.png) | ![](img/ICQbotXiaoQRobot03.png) | ![](img/ICQbotXiaoQRobot04.png) |
 | :---: | :---: | :---: | :---: |
 | ICLink 2.0 Upgrade Tool x1  | USB-C Data Cables x2  | ICQbot Xiao Q Robot ×1  |  Android Tablet ×1 / iOS Tablet ×1  |
 
