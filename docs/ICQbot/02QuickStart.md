@@ -72,7 +72,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 | 3、Program Pac-Man to move using voice commands. When Pac-Man eats a bean, it grows larger.   | 4、Program the beans to disappear when Pac-Man eats them.   |
 
 
-4. Connect via Bluetooth and click “[Learn More](https://www.yuque.com/crystal-vzc6k/cfl3ix/lzppy94ty3eofheo?singleDoc#%20《使用指南》).”
+4. Connect via Bluetooth and click “[Learn More](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/05ProgrammingSoftware/04UserGuideforApp.html).”
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/QuickStart20.gif)
