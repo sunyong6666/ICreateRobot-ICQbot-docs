@@ -59,7 +59,6 @@ In this section, we will guide you through creating a voice-controlled stage cha
 | --- |
 | Connect the voice recognition sensor to Port 1 or Port 2 of the ICQbot Xiao Q Robot. |
 
-
 3. Programming Steps  
 
 | <!-- 这是一张图片，ocr 内容为： -->
