@@ -44,13 +44,9 @@ In this section, we will guide you through creating a voice-controlled stage cha
 
 1. Preparation  
 
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/QuickStart12.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/QuickStart13.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/QuickStart14.png) |
-| :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor x 1 |  ICQbot Software  × 1 |
 
+| ![](img/QuickStart12.png) | ![](img/QuickStart13.png) | ![](img/QuickStart14.png) |
+|  ICQbot Xiao Q Robot × 1 |  Voice Recognition Sensor x 1 |  ICQbot Software  × 1 |
 
 2. Assembly Steps  
 
