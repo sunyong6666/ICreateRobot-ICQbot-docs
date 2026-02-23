@@ -106,5 +106,5 @@ Steps:
 | 5、Port 2 operates similarly to Port 1.  （Attached: tilt sensor can control motor only left and right, not control front and back) |  |
 
 
-*If the tilt sensor cannot control the movement of the motor in both directions, please refer to [the fault analysis and troubleshooting](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mt3pio89d0wmgysa/collaborator/join?token=6haNKiSj5A3tLXuI&source=doc_collaborator#%20《硬件类故障》) click for more information.
+*If the tilt sensor cannot control the movement of the motor in both directions, please refer to [the fault analysis and troubleshooting](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/08FaultAnalysisandsolution/01HardwareIssues.html) click for more information.
 
