@@ -55,7 +55,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 2. Assembly Steps  
 
 | <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732934567597-f7b70db1-8764-47f5-8a81-342aa42edce5.gif)<br/>  |
+![](img/QuickStart15.gif)<br/>  |
 | --- |
 | Connect the voice recognition sensor to Port 1 or Port 2 of the ICQbot Xiao Q Robot. |
 
