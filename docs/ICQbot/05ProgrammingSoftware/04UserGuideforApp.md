@@ -54,6 +54,7 @@ How to control the software character movement with the buttons on the  Xiao Q R
 | 3ã€Start and test the program to see the character move left and right with Button 1 and Button 2, respectively.   | |
 
 
-Tap [â€œLearn Moreâ€](https://www.yuque.com/crystal-vzc6k/cfl3ix/fsh4h1li9d3g0kcr?singleDoc#%20ã€ŠProgramming%20Control%20Modeã€?) for additional case studies.
+Tap [Learn More](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/04ProgrammingControlMode.html#case-1-software-programming) for additional case studies.
+
 
 
