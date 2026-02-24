@@ -14,9 +14,9 @@ Steps:
 
 | ![](img/04User.gif) | ![](img/05User.gif) |
 | --- | --- |
-| 1ã€Connect to Bluetooth: Follow the steps above to establish a connection.   | 2ã€Click the blank area between the top 'Add Text' and 'Reset Role' more than 10 times until the name modification dialog box appears |
+| 1.Connect to Bluetooth: Follow the steps above to establish a connection.   | 2.Click the blank area between the top 'Add Text' and 'Reset Role' more than 10 times until the name modification dialog box appears |
 | ![](img/06User.gif) | ![](img/07User.gif) |
-| 3ã€Input a new Bluetooth name in the pop-up window and confirm with the checkmark.   | 4ã€Reconnect to the renamed Bluetooth device.   |
+| 3.Input a new Bluetooth name in the pop-up window and confirm with the checkmark.   | 4.Reconnect to the renamed Bluetooth device.   |
 
 
 ## How to Use the Console  
@@ -24,9 +24,9 @@ Steps:
 
 | ![](img/08User.gif) | ![](img/09User.gif) |
 | --- | --- |
-| 1ã€Connect to Bluetooth: Follow the steps above to establish a connection.   | 2ã€Open the console: Tap the console button at the top of the app.   |
+| 1.Connect to Bluetooth: Follow the steps above to establish a connection.   | 2.Open the console: Tap the console button at the top of the app.   |
 | ![](img/10User.gif) | ![](img/11User.png) |
-| 3ã€The pop-up window displays the status of two input ports and two buttons on the controller in real time.   | 4ã€The firmware version is displayed in the bottom-left corner of the pop-up.   |
+| 3.The pop-up window displays the status of two input ports and two buttons on the controller in real time.   | 4.The firmware version is displayed in the bottom-left corner of the pop-up.   |
 
 
 ## Case Study  
@@ -49,12 +49,13 @@ How to control the software character movement with the buttons on the  Xiao Q R
 
 | ![](img/15User.gif) | ![](img/16User.gif) |
 | --- | --- |
-| 1ã€Turn on the Xiao Q Robot by holding the power button for 3s. Open the app, and connect via Bluetooth.   | 2ã€Choose a lunar background and select the â€œXiao Aiâ€? character. Program Button 1 to move the character left by 1 step and Button 2 to move it right by 1 step.   |
+| 1.Turn on the Xiao Q Robot by holding the power button for 3s. Open the app, and connect via Bluetooth.   | 2.Choose a lunar background and select the â€œXiao Aiâ€? character. Program Button 1 to move the character left by 1 step and Button 2 to move it right by 1 step.   |
 | ![](img/17User.gif) | |
-| 3ã€Start and test the program to see the character move left and right with Button 1 and Button 2, respectively.   | |
+| 3.Start and test the program to see the character move left and right with Button 1 and Button 2, respectively.   | |
 
 
 Tap [Learn More](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/04ProgrammingControlMode.html#case-1-software-programming) for additional case studies.
+
 
 
 
