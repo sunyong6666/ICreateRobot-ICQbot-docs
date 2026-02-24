@@ -12,11 +12,8 @@ Open the App Store, search for "ICQbot," or scan the QR code below to download t
 
 ![](img/01Software.png)
 
-  
-
-
-若有收获，就点个赞吧
 
   
+
 
 
