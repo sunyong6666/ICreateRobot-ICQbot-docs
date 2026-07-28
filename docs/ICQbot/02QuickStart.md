@@ -26,7 +26,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 2. Assembly Steps  
 
-| ![](img/QuickStart08.gif) | ![](img/QuickStart09.gif) |
+| ![](img/QuickStart08.gif) | ![](img/QuickStart01.gif) |
 | :--- | :--- |
 | 1. Plug the voice recognition sensor into blue port 1.<br/> Plug the motor into green port 1.   | 2. Assemble the fan blades and attach them to the motor.   |
 | ![](img/QuickStart10.gif) | |
@@ -35,7 +35,7 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 ## Software Programming Control  
 In this section, we will guide you through creating a voice-controlled stage character. This project will help you understand how to use voice commands to manipulate stage characters effectively.  
 
-**Case Overview  **
+**Case Overview**
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/QuickStart11.gif)
@@ -67,7 +67,7 @@ In this section, we will guide you through creating a voice-controlled stage cha
 4. Connect via Bluetooth and click “[Learn More](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/05ProgrammingSoftware/04UserGuideforApp.html).”
 
 <!-- 这是一张图片，ocr 内容为： -->
-![](img/QuickStart20.gif)
+![](img/QuickStart11.gif)
 
 5.  Start Using  
 + Click the green flag above the stage to run the program.
