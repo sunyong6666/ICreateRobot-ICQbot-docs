@@ -34,6 +34,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 ### Battery Indicator Descriptions  
 | ![](img/ICQbotXiaoQRobot06.png) | ![](img/ICQbotXiaoQRobot07.png) | ![](img/ICQbotXiaoQRobot08.png) | ![](img/ICQbotXiaoQRobot09.png) |
 | --- | :---: | :---: | --- |
+
 ![](img/ICQbotXiaoQRobot10.png) 
 
 
@@ -51,7 +52,10 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 
 | ![](img/ICQbotXiaoQRobot11.png) | ![](img/ICQbotXiaoQRobot12.png) | ![](img/ICQbotXiaoQRobot13.png) |
 | --- | :---: | :---: |
-| ![](img/ICQbotXiaoQRobot14.png)  |
+
+
+ ![](img/ICQbotXiaoQRobot14.png)  
+ 
 
 
 ## Specifications  
