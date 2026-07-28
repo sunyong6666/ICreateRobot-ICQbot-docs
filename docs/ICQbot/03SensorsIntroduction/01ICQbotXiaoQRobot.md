@@ -7,7 +7,8 @@
 The main controller: Xiao Q Robot serves as the core of the robot's operation. Sensors send commands that require the Xiao Q Robot to process and relay to actuators to perform corresponding actions. The Xiao Q Robot features a white and purple color scheme with a split upper-lower structure. Its top and bottom are compatible with LEGO structural components, while the sides support beam-pin structures, offering extensive expandability.  The Xiao Q Robot is equipped with: 2 blue input ports, 2 green output ports, 1 Type-C port, 4 indicator lights on the top, and 3 illuminated buttons, including Button 1, Power button, and Button 2.
 
 ## Structure  
-![](img/ICQbotXiaoQRobot02.png)![](img/ICQbotXiaoQRobot03.png)
+ ![](img/ICQbotXiaoQRobot02.png)  ![](img/ICQbotXiaoQRobot03.png) 
+
 
 
 
@@ -33,7 +34,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 ### Battery Indicator Descriptions  
 | ![](img/ICQbotXiaoQRobot06.png) | ![](img/ICQbotXiaoQRobot07.png) | ![](img/ICQbotXiaoQRobot08.png) | ![](img/ICQbotXiaoQRobot09.png) |
 | --- | :---: | :---: | --- |
-| ![](img/ICQbotXiaoQRobot10.png) | | |  |
+| ![](img/ICQbotXiaoQRobot10.png) |
 
 
 1. The battery indicator light shows the Xiao Q Robot'sbattery level during operation. When the battery is below 1%, the robot will shut down automatically.  
@@ -41,7 +42,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 
 |  Status   |  Battery Indicator Lights   |  Port Indicator Lights   |
 | :---: | --- | --- |
-|  Powered off   | Flashes until fully charged. The flash color corresponds to the battery level.   |  4 ports display battery level:     1 light = 25%,  2 lights = 50%,     3 lights = 75%, 4 lights = 100%.   |
+|  Powered off   | Flashes until fully charged. <br/>The flash color corresponds to the battery level.   |  4 ports display battery level:    <br/> 1 light = 25%,  2 lights = 50%,    <br/> 3 lights = 75%, 4 lights = 100%.   |
 |  Powered on   |  No reaction.   |  No reaction.   |
 
 
@@ -50,7 +51,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 
 | ![](img/ICQbotXiaoQRobot11.png) | ![](img/ICQbotXiaoQRobot12.png) | ![](img/ICQbotXiaoQRobot13.png) |
 | --- | :---: | :---: |
-| ![](img/ICQbotXiaoQRobot14.png) | | |
+| ![](img/ICQbotXiaoQRobot14.png)  |
 
 
 ## Specifications  
