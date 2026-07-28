@@ -23,7 +23,7 @@
 | --- | --- |
 | 1、Press and hold the power button on the Xiao Q Robot for 3s to power it on.   | 2、 Connect the distance sensor to Port 1 (blue side).   |
 | ![](img/LogicControlMode07.gif) | ![](img/LogicControlMode08.gif) |
-| 3、Connect the motor to Port 1 (green side).   | 4、Use the distance sensor to control the motor's counterclockwise rotation based on detected distance.   |
+| 3、Connect the motor to Port 1 (green side).   | 4、Use the distance sensor to control the motor's counterclockwise<br/> rotation based on detected distance.   |
 | ![](img/LogicControlMode09.gif) | ![](img/LogicControlMode10.png) |
 | 5、 The same operation applies to Port 2 for clockwise motor movement.   | Attached: Distance sensor detection diagram. |
 
@@ -74,7 +74,7 @@ Steps:
 | --- | --- |
 | 1、Connect the distance sensors to Ports 1 and 2 (blue side).   | 2、Connect the motor to Ports 1 and 2 (green side).   |
 | ![](img/LogicControlMode41.gif) | |
-| 3、Press and hold the power button on the Xiao Q Robot for 3s, then place the line-following car on the track to begin line-following.  <br/>**Note:** If line-following does not work, try switching the motor ports.   | |
+| 3、Press and hold the power button on the Xiao Q Robot for 3s,<br/> then place the line-following car on the track to begin<br/> line-following.  <br/>**Note:** If line-following does not work, <br/>try switching the motor ports.   | |
 
 
 *If you have other problems, please refer to [fault analysis and troubleshooting](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/08FaultAnalysisandsolution/01HardwareIssues.html) to learn more.
