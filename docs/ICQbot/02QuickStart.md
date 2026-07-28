@@ -59,9 +59,9 @@ In this section, we will guide you through creating a voice-controlled stage cha
 
 | ![](img/QuickStart16.gif)<br/> | ![](img/QuickStart17.gif)<br/> |
 | --- | --- |
-| 1、Choose a background image.   | 2、Select a Pac-Man character and three beans, then resize them to appropriate sizes (Note: Select the target character before resizing).   |
+| 1、Choose a background image.   | 2、Select a Pac-Man character and three beans,<br/> then resize them to appropriate sizes <br/>(Note: Select the target character before resizing).   |
 | ![](img/QuickStart18.gif) | ![](img/QuickStart19.gif)<br/> |
-| 3、Program Pac-Man to move using voice commands. When Pac-Man eats a bean, it grows larger.   | 4、Program the beans to disappear when Pac-Man eats them.   |
+| 3、Program Pac-Man to move using voice commands.    | 4、Program the beans to disappear when Pac-Man eats them.   |
 
 
 4. Connect via Bluetooth and click “[Learn More](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/05ProgrammingSoftware/04UserGuideforApp.html).”
