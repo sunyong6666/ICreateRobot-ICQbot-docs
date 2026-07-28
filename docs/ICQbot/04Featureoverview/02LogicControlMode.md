@@ -72,9 +72,9 @@ Steps:
 
 | ![](img/LogicControlMode39.gif) | ![](img/LogicControlMode40.gif) |
 | --- | --- |
-| 1、Connect the distance sensors to Ports 1 and 2 (blue side).   | 2、Connect the motor to Ports 1 and 2 (green side).   |
+| 1、Connect the distance sensors to Ports 1 and 2 (blue side).   | 2、Connect the motor to Ports 1 and 2 (green side). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 | ![](img/LogicControlMode41.gif) | |
-| 3、Press and hold the power button on the Xiao Q Robot for 3s,<br/> then place the line-following car on the track to begin<br/> line-following.  <br/>**Note:** If line-following does not work, <br/>try switching the motor ports.   | |
+| 3、Press and hold the power button on the Xiao Q Robot for 3s,<br/> then place the line-following car on the track to begin line-following.  <br/>**Note:** If line-following does not work, try switching the motor ports.   | |
 
 
 *If you have other problems, please refer to [fault analysis and troubleshooting](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/08FaultAnalysisandsolution/01HardwareIssues.html) to learn more.
