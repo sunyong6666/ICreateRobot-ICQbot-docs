@@ -7,8 +7,9 @@
 The main controller: Xiao Q Robot serves as the core of the robot's operation. Sensors send commands that require the Xiao Q Robot to process and relay to actuators to perform corresponding actions. The Xiao Q Robot features a white and purple color scheme with a split upper-lower structure. Its top and bottom are compatible with LEGO structural components, while the sides support beam-pin structures, offering extensive expandability.  The Xiao Q Robot is equipped with: 2 blue input ports, 2 green output ports, 1 Type-C port, 4 indicator lights on the top, and 3 illuminated buttons, including Button 1, Power button, and Button 2.
 
 ## Structure  
- ![](img/ICQbotXiaoQRobot02.png)  ![](img/ICQbotXiaoQRobot03.png) 
-
+|  ![](img/ICQbotXiaoQRobot02.png) |  ![](img/ICQbotXiaoQRobot03.png) | 
+| :---: | :---: |
+| | | 
 
 
 
@@ -26,7 +27,9 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 
 
 ### Indicator Light Descriptions  
-![](img/ICQbotXiaoQRobot04.png)![](img/ICQbotXiaoQRobot05.png)
+| ![](img/ICQbotXiaoQRobot04.png) | ![](img/ICQbotXiaoQRobot05.png) |
+| :---: | :---: |
+| | | 
 
 1. After normal startup, the indicator lights for input ports are blue, and for output ports, green.  
 2. In Bluetooth mode, input ports are purple, and output ports are yellow.  
