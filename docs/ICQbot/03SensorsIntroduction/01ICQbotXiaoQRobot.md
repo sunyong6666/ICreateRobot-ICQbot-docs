@@ -34,7 +34,8 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 ### Battery Indicator Descriptions  
 | ![](img/ICQbotXiaoQRobot06.png) | ![](img/ICQbotXiaoQRobot07.png) | ![](img/ICQbotXiaoQRobot08.png) | ![](img/ICQbotXiaoQRobot09.png) |
 | --- | :---: | :---: | --- |
-| ![](img/ICQbotXiaoQRobot10.png) |
+
+ ![](img/ICQbotXiaoQRobot10.png) 
 
 
 1. The battery indicator light shows the Xiao Q Robot'sbattery level during operation. When the battery is below 1%, the robot will shut down automatically.  
