@@ -78,5 +78,30 @@
 | ① |  Introduction Video   |  Here you can watch a beginner tutorial video.   |
 | ② |  Project Examples   |  Learn how to use these two projects to quickly get started.   |
 
+## Bluetooth Connection Interface
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/06Interface.png)
+
+| No. | Name | Description |
+| :---: | :---: | --- |
+| ① |  Switch   | <br/> Used to switch between automatic Bluetooth connection and manual Bluetooth connection modes.  <br/>+  When the switch is gray, manual Bluetooth connection mode is enabled. Users need to manually select the Bluetooth device name to connect.  <br/>+  When the switch is green, automatic Bluetooth connection mode is enabled. Bring the powered-on controller close to the mobile device to establish a Bluetooth connection automatically.   |
+| ② | Close |  Used to close the Bluetooth connection interface.   |
+| ③ |  List   |  Displays the names of discovered Bluetooth devices.   |
+| ④ |  Refresh   |  Used to refresh the information displayed in the list.   |
+| ⑤ |  Disconnect   |  Used to disconnect the currently connected Bluetooth device.   |
+
+
+## Console Interface
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/07Interface.png)
+
+| No. | Name | Description |
+| :---: | --- | --- |
+| ① |  Name   |  Corresponds from top to bottom to Blue Port 1, Blue Port 2, Button 1, and Button 2 on the ICQbot Controller.   |
+| ② |  Status   | **Indicates the real-time status of the ports and buttons.**<br/>+ **Port 1 and Port 2:** Displays the name of the connected module and its current status. <br/>+ **Button 1 and Button 2:** Displays the button status (**Pressed / Released**). |
+
+
+
+
 
 
