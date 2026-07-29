@@ -117,12 +117,12 @@ The voice command should match the motor's port, as shown below:
 | program run / stop commands | Run the program | Run the program recognized |
 | program run / stop commands | Stop the program | Stop the program recognized |
 | program modify commands | delete last step |  |
-| ICQbot programming Words | Move left  | Move left recognized |
-| ICQbot programming Words | Move right | Move right recognized |
-| ICQbot programming Words | Move up | Move up recognized |
-| ICQbot programming Words | Move down | Move down recognized |
-| ICQbot programming Words | Jump | Jump recognized |
-| ICQbot programming Words | Go home | Go home recognized |
-| ICQbot programming Words | Stop | Stop recognized |
+| software program commands | Move left  | Move left recognized |
+| software program commands | Move right | Move right recognized |
+| software program commands | Move up | Move up recognized |
+| software program commands | Move down | Move down recognized |
+| software program commands | Jump | Jump recognized |
+| software program commands | Go home | Go home recognized |
+| software program commands | Stop | Stop recognized |
 
 
