@@ -5,7 +5,7 @@
 ### Trigger Blocks  
 ![](img/01Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |    | Description |
 | :---: | :---: | :---: | --- |
 | ① |  Start When Green Flag is Clicked   | ![](img/02Block.png) |  Place this block at the beginning of the program. When the green flag is clicked, the following program will execute.   |
 | ② |  Start When Character is Clicked   | ![](img/03Block.png) | Place this block at the beginning of the program. When the character is clicked, the following program will execute.   |
@@ -20,7 +20,7 @@
 ### Action Blocks  
 ![](img/10Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |     | Description |
 | :---: | :---: | :---: | --- |
 | ① |  Move Right   | ![](img/11Block.png) | Moves the character to the right. The number of steps can be specified.   |
 | ② |  Move Left   | ![](img/12Block.png) | Moves the character to the left. The number of steps can be specified.   |
@@ -37,7 +37,7 @@
 
 
 
-| No.   | Name |  Description   | |
+| No.   | Name |     | Description |
 | :---: | :---: | :---: | --- |
 | ① |  Speak   | ![](img/20Block.png) | Displays a speech bubble above the character with specified content.   |
 | ② |  Enlarge   | ![](img/21Block.png) | Increases the character's size, making it appear larger.   |
@@ -51,7 +51,7 @@
 ### Sound Effect Blocks   
 ![](img/27Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |    | Description |
 | :---: | :---: | --- | --- |
 | ① |  Start When Voice Recognition Module Recognizes   | ![](img/28Block.png) | Place this block at the beginning of the program. When the voice recognition module detects a command, the following program will execute.   |
 | ② | Dog | ![](img/29Block.png) | Plays animal sounds.   |
@@ -63,7 +63,7 @@
 ### Control Blocks  
 ![](img/33Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |     | Description |
 | :---: | :---: | :---: | --- |
 | ① | Pause   | ![](img/34Block.png) | Pauses the character for a specified duration (unit: 1/10 second).   |
 | ② | Stop   | ![](img/35Block.png) | Stops all programs running on the character.   |
@@ -74,7 +74,7 @@
 ### Motor Blocks  
 ![](img/38Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |  | Description |
 | :---: | :---: | :---: | --- |
 | ① |  Set Click Speed   | ![](img/39Block.svg) | Adjusts the speed of the clicking motion (range: 0-9).   |
 | ② |  Motor Port 1   | ![](img/40Block.svg) | Controls the motor connected to Port 1.   |
@@ -89,7 +89,7 @@
 ### Ending Blocks  
 ![](img/47Block.png)
 
-| No.   | Name |  Description   | |
+| No.   | Name |    | Description |
 | :---: | :---: | :---: | --- |
 | ① | End   | ![](img/48Block.png) | Indicates the end of the program (does not affect execution).   |
 | ② | Infinite Loop   | ![](img/49Block.png) | Continuously repeats all programs within the block.   |
