@@ -40,7 +40,7 @@ Steps
 
 | ![](img/ProgrammingControlMode11.gif) | ![](img/ProgrammingControlMode12.gif) |
 | --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. <be/>Open the APP and connect to Bluetooth.   | 2、 Connect the tilt sensor to port 1 (input port).   |
+| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. <be/>Open the APP and connect to Bluetooth.   | 2、 Connect the tilt sensor to port 1 (input port). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 | ![](img/ProgrammingControlMode13.gif) | ![](img/ProgrammingControlMode14.gif) |
 | 3、In the software, select the character and background, <br/>then program the character: when the tilt sensor tilts upward,<br/> the character moves up; when tilted downward, the character moves down; <br/>when tilted to the left, the character moves left; <br/>and when tilted to the right, the character moves right.   | 4、Effect display. |
 
