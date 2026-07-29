@@ -17,9 +17,9 @@
 
 | ![](img/ProgrammingControlMode04.gif) | ![](img/ProgrammingControlMode05.gif) |
 | --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and connect to Bluetooth. After Bluetooth is connected, the Xiao Q Robot will emit a “beep” sound.   | 2、In the software, select the moon background and the Xiao Ai character, then start programming. Use the Xiao Q Robot button 1 to move the character one step to the left, and button 2 to move the character one step to the right.   |
+| 1、Press and hold the power button for 3s to power on the Xiao Q Robot.<br/> Open the APP and connect to Bluetooth. After Bluetooth is connected, <br/>the Xiao Q Robot will emit a “beep” sound.   | 2、In the software, select the moon background and the Xiao Ai character, then start programming.<br/> Use the Xiao Q Robot button 1 to move the character one step to the left, <br/>and button 2 to move the character one step to the right.   |
 | ![](img/ProgrammingControlMode06.gif) |  |
-| 3、Start the program and observe the result (Xiao Q Robot button 1 controls Xiao Ai to move left, and button 2 controls Xiao Ai to move right). | |
+| 3、Start the program and observe the result (Xiao Q Robot button 1 controls<br/> Xiao Ai to move left, and button 2 controls Xiao Ai to move right). | |
 
 
 ## Case 2: Hardware-Software Interaction
@@ -33,16 +33,16 @@ Steps
 
 | ![](img/ProgrammingControlMode08.png) | ![](img/ProgrammingControlMode09.png) | ![](img/ProgrammingControlMode10.png) |
 | :---: | :---: | --- |
-| ICQbot Xiao Q Robot × 1 | Tilt Sensor×1 | Android Tablet ×1 / iOS Tablet ×1   |
+| ICQbot Xiao Q Robot × 1 &nbsp;&nbsp;&nbsp;| Tilt Sensor×1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Android Tablet ×1 / iOS Tablet ×1   |
 
 
 2. Steps Display
 
 | ![](img/ProgrammingControlMode11.gif) | ![](img/ProgrammingControlMode12.gif) |
 | --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and connect to Bluetooth.   | 2、 Connect the tilt sensor to port 1 (input port).   |
+| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. <be/>Open the APP and connect to Bluetooth.   | 2、 Connect the tilt sensor to port 1 (input port).   |
 | ![](img/ProgrammingControlMode13.gif) | ![](img/ProgrammingControlMode14.gif) |
-| 3、In the software, select the character and background, then program the character: when the tilt sensor tilts upward, the character moves up; when tilted downward, the character moves down; when tilted to the left, the character moves left; and when tilted to the right, the character moves right.   | 4、Effect display. |
+| 3、In the software, select the character and background, <br/>then program the character: when the tilt sensor tilts upward,<br/> the character moves up; when tilted downward, the character moves down; <br/>when tilted to the left, the character moves left; <br/>and when tilted to the right, the character moves right.   | 4、Effect display. |
 
 
 ## Case 3: Hardware-Software Interaction
@@ -58,7 +58,7 @@ Steps
 
 | ![](img/ProgrammingControlMode16.png) | ![](img/ProgrammingControlMode17.png) | ![](img/ProgrammingControlMode18.png) |
 | :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Motors × 2 | Android Tablet ×1 / iOS Tablet ×1   |
+| ICQbot Xiao Q Robot × 1 &nbsp;&nbsp;&nbsp;| Motors × 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Android Tablet ×1 / iOS Tablet ×1   |
 
 
 1. Structure Setup 
@@ -80,9 +80,9 @@ Steps
 
 | ![](img/ProgrammingControlMode37.gif) | ![](img/ProgrammingControlMode38.gif) |
 | --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and connect to Bluetooth.   | 2、Connect the motor modules to ports 1 and 2 (output ports).   |
+| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and <br/>connect to Bluetooth.   | 2、Connect the motor modules to ports 1 and 2 (output ports).   |
 | ![](img/ProgrammingControlMode39.gif) | ![](img/ProgrammingControlMode40.gif) |
-| 3、In the software, add four directional arrows and a stop button.   | 4、Program the up and down buttons: Up button (Press → motor power 5 → both motors move forward); Down button (Press → motor power 5 → both motors move backward). Then program the left and right buttons and the stop button: Left button (Press → motor power 5 → both motors move left → wait 2 seconds → move forward); Right button (Press → motor power 5 → both motors move right → wait 2 seconds → move forward); Stop button (Press → both motors stop).   |
+| 3、In the software, add four directional arrows and a stop button.   | 4、Program the up and down buttons:<br/> Up button (Press → motor power 5 → both motors move forward); <br/>Down button (Press → motor power 5 → both motors move backward). <br/>Then program the left and right buttons and the stop button:<br/> Left button (Press → motor power 5 → both motors move left → wait 2 seconds → move forward); <br/>Right button (Press → motor power 5 → both motors move right → wait 2 seconds → move forward); <br/>Stop button (Press → both motors stop).   |
 | ![](img/ProgrammingControlMode41.gif) |  |
 | 5、Effect display. |  |
 
@@ -96,7 +96,7 @@ Steps
 
 1. Prearation
 
-| ![](img/ProgrammingControlMode43.png) | ![](imgProgrammingControlMode44.png) | ![](img/ProgrammingControlMode45.png) |
+| ![](img/ProgrammingControlMode43.png) | ![](img/ProgrammingControlMode44.png) | ![](img/ProgrammingControlMode45.png) |
 | :---: | :---: | :---: |
 | ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Android Tablet ×1 / iOS Tablet ×1 |
 
@@ -105,33 +105,8 @@ Steps
 
 | ![](img/ProgrammingControlMode46.gif) | ![](img/ProgrammingControlMode47.gif) |
 | --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and connect to Bluetooth.  | 2、Connect the voice recognition sensor to port 1 or port 2 (input port).   |
-| ![](img/ProgrammingControlMode48.gif) | ![](img/ProgrammingControlMode49.gif) |
-| 3、In the software, select the grassland background and the rabbit character, then program the rabbit to move according to the voice commands. Voice command “Up” will make the rabbit move up, “Down” will move it down, “Left” will make it move left, and “Right” will make it move right. The voice command “Go home” will return the character to the starting position.  <br/>More voice command words can be found in the [Voice Command List](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/ivnlxdhe5afoyn5d/collaborator/join?token=FN2u9SRKqEq9sjFY&source=doc_collaborator#%20《Voice%20Programming%20Mode》).   | 4、Effect display. |
-
-
-##  Case 5:  Voice Self-learning Command Word Programming  
-### Voice Self-learning Command Words to Control Motor  
-![](img/ProgrammingControlMode50.gif)
-
-### How to use voice programming to control the software character to perform tasks?  
-Steps
-
-1. Prearation
-
-| ![](img/ProgrammingControlMode51.png) | ![](img/ProgrammingControlMode52.png) | ![](img/ProgrammingControlMode53.png) |
-| :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Android Tablet ×1 / iOS Tablet ×1   |
-
-
-1. Steps Display
-
-| ![](img/ProgrammingControlMode54.gif) | ![](img/ProgrammingControlMode55.gif) |
-| --- | --- |
-| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. Open the APP and connect to Bluetooth.   | 2、Connect the voice recognition sensor to the ICQbot Xiao Q Robot.   |
-| ![](img/ProgrammingControlMode56.gif) | ![](img/ProgrammingControlMode57.gif) |
-| 3.、Select a background and reduce the character's size.   | 4、In the software, the self-learning command words are ‘Green Car Up’, ‘Red Car Up’, and ‘Enter House’. When the first command is recognized, the character moves left two steps and disappears. When the second command is recognized, it moves right two steps and disappears. When the third command is recognized, it moves up two steps and disappears. ([Voice command words can be referred to via the link.](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/ivnlxdhe5afoyn5d/collaborator/join?token=FN2u9SRKqEq9sjFY&source=doc_collaborator#%20《Voice%20Programming%20Mode》))   |
-| ![](img/ProgrammingControlMode58.gif) | ![](img/ProgrammingControlMode59.gif) |
-| 5、Record the corresponding command words. If a command word already exists, say ‘Reset Learning’ to clear the existing self-learned commands, then say ‘Start Self-learning’ to begin learning new commands. Each command word needs to be learned twice. The first command word is ‘Green Car Up’, the second is ‘Red Car Up’, and the third is ‘Enter House’.   | 6、 Effect display. Say the corresponding command word to execute the program.   |
+| 1、Press and hold the power button for 3s to power on the Xiao Q Robot. <br/>Open the APP and connect to Bluetooth.  | 2、Connect the voice recognition sensor to port 1 or port 2 (input port).   |
+| ![](img/ProgrammingControlMode48.gif) | ![](img/ProgrammingControlMode42.gif) |
+| 3、In the software, select the grassland background and the rabbit character, <br/>then program the rabbit to move according to the voice commands.<br/> Voice command “Up” will make the rabbit move up, <br/>“Down” will move it down, “Left” will make it move left, and “Right” will make it move right. <br/>The voice command “Go home” will return the character to the starting position.  <br/>More voice command words can be found in the [Voice Command List](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/03VoiceProgrammingMode.html).   | 4、Effect display. |
 
 
