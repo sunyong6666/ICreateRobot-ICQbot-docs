@@ -12,7 +12,7 @@ Steps:
 
 | ![](img/VoiceProgrammingMode02.png) | ![](img/VoiceProgrammingMode03.png) | ![](img/VoiceProgrammingMode04.png) |
 | :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Motor × 1 |
+| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Motor × 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 
 1. Steps Display
@@ -21,7 +21,7 @@ Steps:
 | --- | --- |
 | 1、Press and hold the power button on the Xiao Q Robot for 3s to power it on.   | 2、Connect the motor to Port 1 (green side).   |
 | ![](img/VoiceProgrammingMode07.gif) | ![](img/VoiceProgrammingMode08.gif) |
-| 3、Connect the voice sensor to Port 1 (blue side).   | 4、Wake up the voice recognition sensor by saying "Hello Xiao Q" and wait for the response.   Say “Motor 1 forward” to rotate the motor. The system will reply, “Motor 1 forward recognized,” and the motor will rotate. Say “Stop” to stop the motor.   |
+| 3、Connect the voice sensor to Port 1 (blue side).   | 4、Wake up the voice recognition sensor by saying "Hello Xiao Q" and wait for the response.  <br/> Say “Motor 1 forward” to rotate the motor. The system will reply, <br/>“Motor 1 forward recognized,” and the motor will rotate. <br/>Say “Stop” to stop the motor.   |
 
 
 **Note:**  
@@ -34,7 +34,7 @@ The voice command should match the motor's port, as shown below:
 |  Both Port 1 and Port 2 connected to motors   |  Both motors rotate   |  Motor rotates   |
 
 
-*Other command word effects can be tried on your own. [Click here to learn more command words.  ](#aEc3E)
+*Other command word effects can be tried on your own. 
 
 ---
 
@@ -47,7 +47,7 @@ The voice command should match the motor's port, as shown below:
 
 | ![](img/VoiceProgrammingMode10.png) | ![](img/VoiceProgrammingMode11.png) | ![](img/VoiceProgrammingMode12.png) |
 | :---: | :---: | :---: |
-| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Motors × 2 |
+| ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Motors × 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 
 2. Structure Setup  
@@ -73,9 +73,9 @@ The voice command should match the motor's port, as shown below:
 
 | ![](img/VoiceProgrammingMode32.gif) | ![](img/VoiceProgrammingMode33.gif) |
 | --- | --- |
-| 1、Press and hold the power button on the Xiao Q Robot for 3s to power it on.   Connect the motor modules to Ports 1 and 2 (green side).   | 2、Connect the voice recognition sensor to Port 1 (blue side).   |
+| 1、Press and hold the power button on the Xiao Q Robot for 3s to power it on.<br/>   Connect the motor modules to Ports 1 and 2 (green side).   | 2、Connect the voice recognition sensor to Port 1 (blue side).   |
 | ![](img/VoiceProgrammingMode34.gif) | ![](img/VoiceProgrammingMode35.png) |
-| 3、Wake up the voice recognition sensor by saying "Hello Xiao Q" and wait for the response.   Say the command: “Start programming”, “Turn left”, “Wait for 1 second”, “Stop”, and “End programming.”   Say “Execute program” for the motors to perform the corresponding actions.   | Attached: Detection diagram of the voice recognition sensor. |
+| 3、Wake up the voice recognition sensor by saying "Hello Xiao Q" and <br/>wait for the response.   Say the command: “Start programming”, <br/>“Turn left”, “Wait for 1 second”, “Stop”, and “End programming.”<br/>   Say “Execute program” for the motors to perform the corresponding actions.   | Attached: Detection diagram of the voice recognition sensor. |
 
 
 *Other command word effects can be tried on your own. [Click here to learn more command words.  ](#aEc3E)
@@ -83,46 +83,46 @@ The voice command should match the motor's port, as shown below:
 ## Voice Command List
 | Type | Commands | Responses |
 | :---: | :---: | :---: |
-| Wake Words   |  Hellow, Xiao Q   |  Xiao Q is here! |  Feel free to speak? | Xiao Q is here; how can I help you?   |
-|  Exit Words   |  Exit | Shut up | Close | Turn off | Step back | Stop talking   |  Call me again if you need anything.   |
-| Motion Words |  Move forward   | Forward recognized |
-| |  Move backward   | Backward recognized |
-| |  Turn left   | Turn left recognized |
-| |  Turn right   | Turn right recognized |
-| |  Stop movement   | Stop movement recognized |
-| Motor Control Class Words | Motor one forward rotation | Motor one rotating forward recognized |
-| | Motor two forward rotation | Motor two rotating forward recognized |
-| | Motor one reverse rotation | Motor one rotating backward recognized |
-| | Motor two reverse rotation | Motor two rotating backward recognized |
-| | Stop motor one | Motor one stopped recognized |
-| | Stop motor two | Motor two stopped recognized |
-| Waiting for Class Words | Wait for one second | Wait for one second recognized |
-| | Wait for two seconds | Wait for two seconds recognized |
-| | Wait for three seconds | Wait for three seconds recognized |
-| | Wait for tilt | Wait for tilt recognized |
-| | Wait for shake | Wait for shake recognized |
-| | Wait for close distance | Wait for close distance recognized |
-| | Wait for button one press | Wait for button one pressed recognized |
-| | Wait for button two press | Wait for button two pressed recognized |
-| | Wait for ten seconds | Wait for ten seconds recognized |
-| | Wait for twenty seconds | Wait for twenty seconds recognized |
-| | Wait for thirty  seconds | Wait for thirty  seconds recognized |
-| <br/>Light Control Class Words | Please turn on the light | Turn on the light | Turn the light on | Turn on the light | Light on recognized |
-| | Please turn off the light | Turn off the light | Close the light | Turn off the light | Light off recognized |
-| | Red | Red light | Turn on red light | Red light | Red light recognized |
-| | Yellow | Yellow light | Turn on yellow light | Yellow light | Yellow light recognized |
-| | Green | Green light | Turn on green light | Green light | Green light recognized |
-| | Blue | Blue light | Turn on blue light | Blue light | Blue light recognized |
-| Voice Coding Words | Start programming | start coding | Start programming recognized |
-| | End programming| end coding | End programming recognized |
-| | Run program | run code | Run program recognized |
-| | Stop program | Program stop | Stop program recognized |
-| ICQbot programming Words | Move left | left recognized |
-| | Move right | right recognized |
-| | Move up | Up recognized |
-| | Move down | Down recognized |
-| | Jump | Jump recognized |
-| | Go home | Go home recognized |
-| | Stop | Stop recognized |
+| wake-up phrase | Hello,Xiao Q | Xiao Q is here |
+| Motion commands | Move forward | Move forward recognized |
+| Motion commands| Move backward | Move backward recognized |
+| Motion commands | Turn left | Turn left recognized |
+| Motion commands | Turn right | Turn right recognized |
+| Motion commands| Stop movement | Stop movement recognized |
+| Motor commands | Motor 1 run forward | Motor 1 run forward recognized |
+| Motor commands | Motor 1 run backward | Motor 1 run backward recognized |
+| Motor commands | Motor 1 stop | Motor 1 stop recognized |
+| Motor commands | Motor 2 run forward | Motor 2 run forward recognized |
+| Motor commands | Motor 2 run backward | Motor 2 run backward recognized |
+| Motor commands | Motor 2 stop | Motor 2 stop recognized |
+| Waiting commands | Wait for one second | Wait for one second recognized |
+| Waiting commands | Wait for two seconds | Wait for two seconds recognized |
+| Waiting commands | Wait for three seconds | Wait for three seconds recognized |
+| Waiting commands | Wait for ten seconds | Wait for ten seconds recognized |
+| Waiting commands | Wait for twenty seconds | Wait for twenty seconds recognized |
+| Waiting commands | Wait for thirty seconds | Wait for thirty seconds recognized |
+| Waiting commands | Wait for tilting | Wait for tilting recognized |
+| Waiting commands | Wait for shaking | Wait for shaking recognized |
+| Waiting commands | Wait for approching | Wait for approching recognized |
+| Waiting commands | Wait for button 1 press | Wait for button 1 press recognized |
+| Waiting commands | Wait for button 2 press | Wait for button 2 press recognized |
+| Light commands | Turn on the light | Turn on the light recognized |
+| Light commands | Turn off the light | Turn off the light recognized |
+| Light commands | Red light | Red light recognized |
+| Light commands | Yellow light | Yellow light recognized |
+| Light commands | Green light | Green light recognized |
+| Light commands | Blue light | Blue light recognized |
+| program start / finish command | Start programing | Start programing recognized |
+| program start / finish command | Finish programing | Finish programing recognized |
+| program run / stop commands | Run the program | Run the program recognized |
+| program run / stop commands | Stop the program | Stop the program recognized |
+| program modify commands | delete last step |  |
+| ICQbot programming Words | Move left  | Move left recognized |
+| ICQbot programming Words | Move right | Move right recognized |
+| ICQbot programming Words | Move up | Move up recognized |
+| ICQbot programming Words | Move down | Move down recognized |
+| ICQbot programming Words | Jump | Jump recognized |
+| ICQbot programming Words | Go home | Go home recognized |
+| ICQbot programming Words | Stop | Stop recognized |
 
 
