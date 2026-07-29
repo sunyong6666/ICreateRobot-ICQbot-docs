@@ -4,9 +4,11 @@
 
 Steps:  
 
-| ![](img/01User.gif) |  ![](img/02User.gif) | ![](img/03User.png) |
-| --- | --- | --- |
-| 1. Press and hold the power button for 3s.   | 2. Tap the gray Bluetooth icon in the top-left corner, then select the Xiao Q Robotâ€™s Bluetooth name. Once the icon turns blue and you hear a â€œbeep,â€? the connection is successful.   | 3. The input port on the ICQbot Xiao Q Robot will glow purple, and the output port will glow yellow.   |
+| ![](img/01User.gif) |  ![](img/02User.gif) |
+| --- | --- |
+| 1. Press and hold the power button for 3s.   | 2. Tap the gray Bluetooth icon in the top-left corner, <br/>then select the Xiao Q Robot's Bluetooth name. <br/>Once the icon turns blue and you hear a 'beep' the connection is successful.   |  
+| ![](img/03User.png) ||
+|  3. The input port on the ICQbot Xiao Q Robot will glow purple, <br/>and the output port will glow yellow.  ||
 
 
 ## Renaming Bluetooth  
@@ -26,7 +28,7 @@ Steps:
 | --- | --- |
 | 1.Connect to Bluetooth: Follow the steps above to establish a connection.   | 2.Open the console: Tap the console button at the top of the app.   |
 | ![](img/10User.gif) | ![](img/11User.png) |
-| 3.The pop-up window displays the status of two input ports and two buttons on the controller in real time.   | 4.The firmware version is displayed in the bottom-left corner of the pop-up.   |
+| 3.The pop-up window displays the status of two input ports and two buttons on<br/> the controller in real time.   | 4.The firmware version is displayed in the bottom-left corner of the pop-up.   |
 
 
 ## Case Study  
