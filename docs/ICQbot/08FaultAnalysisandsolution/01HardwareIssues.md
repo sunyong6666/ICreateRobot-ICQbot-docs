@@ -53,9 +53,9 @@ Structural design problems in the project may lead to mechanical transmission no
 ## ICQbot Xiao Q Robot Randomly Powers On/Off  
 ![](img/Hardware04.png)
 
-    1. **The button is stuck in the stain**: Clean buttons with alcohol or electronic cleaner to prevent malfunction due to dirt buildup.  
+    1.  The button is stuck in the stain ： Clean buttons with alcohol or electronic cleaner to prevent malfunction due to dirt buildup.  
 
 ---
 
-## 
+
 
