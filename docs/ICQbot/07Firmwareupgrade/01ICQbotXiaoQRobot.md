@@ -5,11 +5,27 @@
  Preparation  
 
 1. Software:  
-    1.  Download the CH340 driver:  ：[https://www.wch.cn/download/CH341SER_EXE.html/](https://www.wch.cn/download/CH341SER_EXE.html)
-        1. Linux ：[https://www.wch.cn/download/CH341SER_LINUX_ZIP.html/](https://www.wch.cn/download/CH341SER_LINUX_ZIP.html)
-        2. Android ：[https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html/](https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html)
-        3. MAC ：[https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html/](https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html)
-    2. Firmware Upgrade Platform：[https://update.icrobot.cn/](https://update.icrobot.cn/)
+    1.  Download the CH340 driver:  [https://www.wch.cn/search.html](https://www.wch.cn/search.html)
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/Xiao1.png)
+
+        1. Linux 
+
+ <!-- 这是一张图片，ocr 内容为： -->
+![](img/Xiao2.png)
+ 2. Android 
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/Xiao3.png)
+
+        3. MAC 
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/Xiao4.png)
+
+
+
 2.  Hardware  
 
 | ![](img/ICQbotXiaoQRobot01.png) | ![](img/ICQbotXiaoQRobot02.png) | ![](img/ICQbotXiaoQRobot03.png) | ![](img/ICQbotXiaoQRobot04.png) |
