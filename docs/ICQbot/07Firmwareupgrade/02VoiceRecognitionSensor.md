@@ -7,18 +7,34 @@ Preparation
 1. Software:  
     1.  Download the CH340 driver: [https://www.wch.cn/search.html](https://www.wch.cn/search.html)
 
+
             1. Windows：
-   ![](img/Xiao1.png)     
+
+
+   ![](img/Xiao1.png)
+
+  
             2. Linux：
-   ![](img/Xiao2.png)      
+
+
+   ![](img/Xiao2.png)
+
+  
             3. Android：
-   ![](img/Xiao3.png)      
+
+
+   ![](img/Xiao3.png)
+
+    
             4. MAC：
-   ![](img/Xiao4.png) 
+
+
+   ![](img/Xiao4.png)
+   
 
         b.  Firmware Upgrade Platform：[https://update.icrobot.cn](https://update.icrobot.cn/)
 
-2. Hardware: 
+1. Hardware: 
 
 | ![](img/VoiceRecognitionSensor01.png) | ![](img/VoiceRecognitionSensor02.png) | ![](img/VoiceRecognitionSensor03.png) | ![](img/VoiceRecognitionSensor04.png) |
 | :---: | :---: | :---: | :---: |
