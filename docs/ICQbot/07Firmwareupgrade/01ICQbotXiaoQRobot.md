@@ -7,21 +7,22 @@
 1. Software:  
     1.  Download the CH340 driver:  [https://www.wch.cn/search.html](https://www.wch.cn/search.html)
 
-<!-- 这是一张图片，ocr 内容为： -->
+
 ![](img/Xiao1.png)
+
 
         1. Linux 
 
- <!-- 这是一张图片，ocr 内容为： -->
 ![](img/Xiao2.png)
- 2. Android 
 
-<!-- 这是一张图片，ocr 内容为： -->
+
+        2. Android 
+
 ![](img/Xiao3.png)
+
 
         3. MAC 
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/Xiao4.png)
 
 
