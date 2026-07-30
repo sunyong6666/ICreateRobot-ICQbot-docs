@@ -5,11 +5,16 @@
 Preparation  
 
 1. Software:  
-    1.  Download the CH340 driver: 
-            1. Windows：[https://www.wch.cn/download/CH341SER_EXE.html/](https://www.wch.cn/download/CH341SER_EXE.html)
-            2. Linux：[https://www.wch.cn/download/CH341SER_LINUX_ZIP.html/](https://www.wch.cn/download/CH341SER_LINUX_ZIP.html)
-            3. Android：[https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html/](https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html)
-            4. MAC：[https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html/](https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html)
+    1.  Download the CH340 driver: [https://www.wch.cn/search.html](https://www.wch.cn/search.html)
+
+            1. Windows：
+   ![](img/Xiao1.png)     
+            2. Linux：
+   ![](img/Xiao2.png)      
+            3. Android：
+   ![](img/Xiao3.png)      
+            4. MAC：
+   ![](img/Xiao4.png) 
 
         b.  Firmware Upgrade Platform：[https://update.icrobot.cn](https://update.icrobot.cn/)
 
