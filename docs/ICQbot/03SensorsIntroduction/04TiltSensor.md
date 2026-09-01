@@ -10,13 +10,13 @@ The tilt sensor has a high-precision 3-axis gyroscope and 3-axis accelerometer c
 
 ## Structure  
 ## ![](img/TiltSensor02.png)
-|  No.   | Name |  Description   |
-| :---: | :---: | :---: |
-| ① |  Right Tilt   | Senses the right tilt angle (0-90°) to provide rotation information, helping determine the clockwise rotation speed of the motor.   |
-| ② |  Left Tilt   |  Senses the left tilt angle (0-90°) to provide rotation information, helping determine the counterclockwise rotation speed of the motor.   |
-| ③ |  Forward Tilt   |  Senses the forward tilt angle (90°) to provide rotation information, helping determine the counterclockwise rotation of the motor.   |
-| ④ |  Backward Tilt   | Senses the backward tilt angle (90°) to provide rotation information, helping determine the counterclockwise rotation of the motor.   |
-| ⑤ |  Crystal Connector   |  Designed with an anti-reverse insertion feature, used to connect various components (e.g., sensors, motors, and controllers).   |
+|  No. | Name | Legend | Description |
+| :---: | :---: | :---: | :---: |
+| ① |  Right Tilt   | ![](img/TI5.png) |Senses the right tilt angle (0-90°) to provide rotation information, helping determine the clockwise rotation speed of the motor.   |
+| ② |  Left Tilt   | ![](img/TI4.png) |Senses the left tilt angle (0-90°) to provide rotation information, helping determine the counterclockwise rotation speed of the motor.   |
+| ③ |  Forward Tilt  | ![](img/TI3.png) |  Senses the forward tilt angle (90°) to provide rotation information, helping determine the counterclockwise rotation of the motor.   |
+| ④ |  Backward Tilt   | ![](img/TI2.png) | Senses the backward tilt angle (90°) to provide rotation information, helping determine the counterclockwise rotation of the motor.   |
+| ⑤ |  Crystal Connector   | ![](img/TI1.png) |  Designed with an anti-reverse insertion feature, used to connect various components (e.g., sensors, motors, and controllers).   |
 
 
 ## Specifications  
