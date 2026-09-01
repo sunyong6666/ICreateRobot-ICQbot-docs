@@ -78,7 +78,7 @@ The voice command should match the motor's port, as shown below:
 | 3、Wake up the voice recognition sensor by saying "Hello Xiao Q" and <br/>wait for the response.   Say the command: “Start programming”, <br/>“Turn left”, “Wait for 1 second”, “Stop”, and “End programming.”<br/>   Say “Execute program” for the motors to perform the corresponding actions.   | Attached: Detection diagram of the voice recognition sensor. |
 
 
-*Other command word effects can be tried on your own. [Click here to learn more command words.  ](#aEc3E)
+Other command word effects can be tried on your own. 
 
 ## Voice Command List
 | Type | Commands | Responses |
