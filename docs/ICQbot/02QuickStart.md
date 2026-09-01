@@ -1,6 +1,9 @@
 # Quick Start
 
-If you are using this product for the first time, please read this chapter carefully to quickly learn how to use ICQbot to make some simple cases. 
+If you are using this product for the first time, we recommend reading this chapter carefully to quickly learn how to use ICQbot to create some simple projects. If you are already familiar with the product, you can skim through this chapter or proceed directly to the subsequent chapters for more detailed instructions and support.
+
+The following two selected projects will help you get started with ICQbot quickly and discover what makes it unique and engaging.
+
 
 
 ## Voice Programming Control  
