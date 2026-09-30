@@ -29,7 +29,7 @@ The tilt sensor has a high-precision 3-axis gyroscope and 3-axis accelerometer c
 | Material   | ABS |
 | Communication   | UART |
 | Angle   | X-axis: -90° - 90°; Y-axis: -90° - 90° |
-|  Compatibility   |  LEGO   |
+|  Compatibility   |  Building Blocks  |
 
 
 ## Usage Instructions  
