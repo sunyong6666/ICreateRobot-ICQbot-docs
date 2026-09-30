@@ -34,7 +34,7 @@ The motor provides power to the robot, controlling the direction and speed of ro
 | Noise   | 54 dB（<font style="color:rgb(0, 0, 0);">MAX）</font> |
 | Communication   |  Serial Communication    |
 | Working Mode   |  Counterclockwise / Clockwise Rotation   |
-|  Compatibility   |  LEGO   |
+|  Compatibility   |  Building Blocks  |
 
 
 ## Usage Instructions  
