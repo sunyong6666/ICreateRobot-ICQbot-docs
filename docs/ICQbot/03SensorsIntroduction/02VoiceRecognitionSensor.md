@@ -29,7 +29,7 @@ The ICQbot voice recognition sensor is capable of receiving voice commands, proc
 | Material   | ABS |
 | Control Mode   | Voice Commands   |
 | Ambient Noise Level | <font style="color:#000000;">10dB＜ Sound ＜110dB</font> |
-|  Compatibility   |  LEGO   |
+|  Compatibility   |  Building Blocks  |
 
 
 
