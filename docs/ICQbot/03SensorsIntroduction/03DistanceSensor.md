@@ -39,7 +39,7 @@ Detection Range in Programming :
 |  Communication   |  Serial Communication   |
 | Detection Mode | Contrast Detection (detection distance) / Color Detection (black and white color) |
 | Detection Range | <font style="color:#000000;"> 0 mm - 120 mm  </font> |
-|  Compatibility   |  LEGO   |
+|  Compatibility   |  Building Blocks  |
 
 
 ## Usage Instructions  
