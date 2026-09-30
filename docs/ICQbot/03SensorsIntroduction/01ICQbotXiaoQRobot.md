@@ -4,7 +4,7 @@
 
 ![](img/ICQbotXiaoQRobot01.png)
 
-The main controller: Xiao Q Robot serves as the core of the robot's operation. Sensors send commands that require the Xiao Q Robot to process and relay to actuators to perform corresponding actions. The Xiao Q Robot features a white and purple color scheme with a split upper-lower structure. Its top and bottom are compatible with LEGO structural components, while the sides support beam-pin structures, offering extensive expandability.  The Xiao Q Robot is equipped with: 2 blue input ports, 2 green output ports, 1 Type-C port, 4 indicator lights on the top, and 3 illuminated buttons, including Button 1, Power button, and Button 2.
+The main controller: Xiao Q Robot serves as the core of the robot's operation. Sensors send commands that require the Xiao Q Robot to process and relay to actuators to perform corresponding actions. The Xiao Q Robot features a white and purple color scheme with a split upper-lower structure. Compatible with Building Blocks on the Top and Bottom, while the sides support beam-pin structures, offering extensive expandability.  The Xiao Q Robot is equipped with: 2 blue input ports, 2 green output ports, 1 Type-C port, 4 indicator lights on the top, and 3 illuminated buttons, including Button 1, Power button, and Button 2.
 
 ## Structure  
 |  ![](img/ICQbotXiaoQRobot02.png) |  ![](img/ICQbotXiaoQRobot03.png) | 
@@ -53,7 +53,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 
 
 ### Structural Expansion Diagram  
-1. The Xiao Q Robot can be creatively expanded with LEGO bricks, plates, and pins. (See diagram below.)  
+1. The main controller can be combined with building blocks, plates, and pins for creative expansion. (See diagram below.)  
 
 | ![](img/ICQbotXiaoQRobot11.png) | ![](img/ICQbotXiaoQRobot12.png) | ![](img/ICQbotXiaoQRobot13.png) |
 | --- | :---: | :---: |
@@ -80,7 +80,7 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 |  Input Ports  | 2 |
 |  Output Ports   | 2 |
 |  Age | 5+ |
-|  Compatibility   | LEGO   |
+
 
 
 ## Usage Instructions
